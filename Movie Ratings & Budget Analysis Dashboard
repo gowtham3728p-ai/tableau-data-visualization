@@ -1,0 +1,56 @@
+🎬 Movie Ratings & Budget Analysis Dashboard
+📊 Project Overview
+
+This project is an interactive Movie Ratings & Budget Analysis Dashboard created using Tableau.
+
+The dashboard analyzes movie data across different years and genres to understand movie budgets, audience and critic ratings, genre-wise movie production, and top-budget movies.
+
+🎯 Objectives
+Analyze movie budgets across different genres and years
+Compare audience ratings and critic ratings
+Identify the relationship between audience and critic ratings
+Analyze the number of movies released by genre over time
+Identify the top-budget movies
+Compare movie trends across different years
+Present movie insights through interactive Tableau visualizations
+🛠️ Tools & Technologies
+Tableau Public
+Data Visualization
+Dashboard Design
+Data Analysis
+Movie Ratings Analysis
+📈 Dashboard Visualizations
+
+The dashboard includes:
+
+Movies Released by Genre
+Audience vs Critic Ratings
+Movie Budget Across Genres Over Time
+Top 3 Movies by Budget
+Year-wise Movie Analysis
+Genre-wise Movie Comparison
+🔍 Key Insights
+The number of movies released varies across different genres and years.
+Comedy and Action genres have a comparatively higher number of movies in several years.
+Audience and critic ratings show a visible relationship, with many movies receiving similar rating patterns.
+Movie budgets vary significantly across genres and years.
+Action movies generally have some of the highest budgets compared with other genres.
+The dashboard highlights the movies with the highest budgets, helping identify major high-investment films.
+Year-wise analysis helps understand how movie production and budgets changed over time.
+🎨 Dashboard Design
+
+The dashboard uses a cinema/movie-themed background with movie-related visual elements to create an engaging presentation.
+
+Different charts are arranged together to provide a clear view of:
+
+Movie production
+Ratings
+Budgets
+Genres
+Year-wise trends
+
+The dashboard is designed to make movie analysis visually attractive, interactive, and easy to understand.
+
+👨‍💻 Created Using
+
+Tableau Public
